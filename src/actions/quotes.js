@@ -26,3 +26,4 @@ export const downvoteQuote = quoteId => {
     type: 'DOWNVOTE_QUOTE',
     quoteId
   }
+}
